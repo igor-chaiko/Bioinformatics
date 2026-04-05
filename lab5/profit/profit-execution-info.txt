@@ -1,0 +1,27 @@
+RMSD
+   FIT RMSD :     2.626
+   USER RMSD:     2.626
+STATUS
+   HETATM records are:         Included
+   Align gap penalty:          10
+   Align gap extend penalty:    2
+   Fitting will be:            Normal (unweighted)
+   Reference structure Chains: A
+   Mobile structure Chains:    A
+   Current numbering mode:     Residue
+   Iterative zone updating:    Off
+   Atoms being fitted:         All
+   Atoms will be included regardless of B-value
+   Atom pairs will be included regardless of interatomic distance
+   Zones being fitted:         All
+   Atoms for RMS calculation:  All
+   Zones for RMS calculation:  All
+
+   Coordinates written centred on: REFERENCE SET
+
+   Reference sequence:         
+   MSTLTSVSGFPRIGQNRELKKIIEGYWKGANDLAAVKATAAELRAKHWRLQQAAGIDLIA
+   SNDFSYYDQMLDTAILLNVIPQRYQRLAFDDQEDTLFAMA
+   Mobile sequence:            
+   MSTLTSVSGFPRIGQNRELKKIIEGYWKGANDLAAVKATAAELRAKHWRLQQAAGIDLIA
+   SNDFSYYDQMLDTAILLNVIPQRYQRLAFDDQEDTLFAMA
